@@ -1,5 +1,49 @@
 ---
-title: "About"
+title: "One tax to rule them all"
 ---
 
-About this site.
+Canadian cities are in crisis.
+Houses are affordable, services are unreliable, and they are not doing enough to reduce emmisions and fight climate change.
+Most potential solutions to these problems end up bogged down in partisan fighting or bureaucratic inertia.
+There is, however, one sensible policy which can help align incentives and resolve many of our municipal challenges.
+
+# What the hell is a land value tax?
+
+Most municipal services are funded by property taxes which are based on the *total value* of a property which includes both the value of the land and the value of the buildings on that land.
+This means that a property with a valuable building will pay more in taxes than a vacant lot or a property with a less valuable building.
+A land value tax, by contrast, is a fixed tax per square meter of land.
+Under a LVT tax scheme two pieces of property in the same area would pay the same rate regardless of what is built on them.
+
+# The perverse incentives of property taxes
+
+Property taxes provide a disincentive for development.
+Imagine that you own a parking lot in a downtown core.
+Since the parking lot isn't terribly valuable relative to developed properties you won't pay much in the way of property taxes.
+If you decided to build an apartment building on the site the value of the property would increase and so your property taxes would rise substantially.
+This creates a perverse incentive because the property tax penalizes development, and rewards the undeveloped land.
+
+A land value tax is superior because since the tax is assessed on the are of the land, the parking lot and the apartment building would pay the same amount of tax.
+This creates an incentive to develop properties because the land owner will not have to pay excess tax on the developed property.
+
+# LVTs are ideal wealth taxes
+
+One of the major drivers of inequality in Canada is the fact that we tax income, but not wealth.
+Wealthy individuals often have a lot of fixed assets which are not taxed until they are sold.
+If you own a lot of stock or land and just hold onto it, you will not pay any tax on it until you sell it and realize a capital gain.
+By contrast income is taxed every year.
+The result is that people who rely on income tend to pay more taxes sooner than those who own a lot of capital.
+
+The problem with taxing wealth is that wealth taxes are difficult to assess and easy to avoid.
+For example it's very difficult to tax unrealized capital gains because it's hard to know exactly what something is worth before it is sold.
+The government needs to make some kind of assessment about what a share is worth and getting that assessment wrong will either result in an onerous tax, or one that's too low.
+Additionally wealth is very easy to hide relative to income because you can register that wealth outside of Canada.
+
+Land is one of the oldest and most common store of wealth.
+Wealthy people tend to own several properties, and those properties tend to be larger than middle income people.
+The advantage of land taxes relative to other wealth taxes is that they are easy to administer and difficult to avoid.
+Every city in Canada knows exactly how big each parcel of land is, and it's impossible for the owner of that parcel to move it to an offshore account or wrap it in a shell company.
+By taxing land municipalities can effectively tax a common form of wealth without a lot of administrative overhead.
+
+# LVTs are simple and economically efficient
+
+The ideal tax from an economic perspective
