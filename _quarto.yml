@@ -9,6 +9,7 @@ website:
       - href: about.qmd
         text: Home
       - about.qmd
+      - model-legislation.qmd
 
 format:
   html:
